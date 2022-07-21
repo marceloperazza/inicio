@@ -1,2 +1,0 @@
-# inicio
-vamos programar
